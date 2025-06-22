@@ -14,8 +14,8 @@
    `pip install PyMuPDF`
 
 2. **Run the Tool**:  
-   Double-click `Pdf_Tools.py` or type:  
-   `python Pdf_Tools.py`
+   Double-click `main.py` or type:  
+   `python main.py`
 
 3. **Follow the Simple Menu**:  
    The program will guide you through every step!
