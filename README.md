@@ -1,5 +1,9 @@
 # 📑 PDF Tool 1 - Easy PDF Editing for Everyone!
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-green)
+[![Author](https://img.shields.io/badge/Made%20by-Avro-9cf?logo=github)](https://github.com/AvroHere)
+
 **No technical skills needed!** This simple tool helps you:
 - ✂️ Remove unwanted pages from PDFs
 - 🖼️ Clean up duplicate images
