@@ -52,7 +52,6 @@ Two easy ways:
 - The program shows how long each operation takes
 
 ## ❓ Need Help?
-- Video tutorial available at: [github.com/AvroHere/PDF-TOOL-1](https://github.com/AvroHere/PDF-TOOL-1)
 - Common issues:
   - If the program doesn't start, make sure Python is installed
   - For large PDFs, be patient - it might take a few minutes
